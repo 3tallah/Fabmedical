@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "Suffix": {
-      "value": "FabmedicalLab01"
+      "value": "F01"
     },
     "VirtualMachineAdminUsernameLinux": {
       "value": "adminfabmedical"
